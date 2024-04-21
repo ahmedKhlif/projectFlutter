@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216151736631",
+    "project_id": "shopismart-e887a",
+    "storage_bucket": "shopismart-e887a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216151736631:android:827e9acd6d17df966d9ab2",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216151736631-91plk1as7jkbql52dqo1flonvqnprf2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "cbc87564949097e6f2b40c97fb0f7bd9c12699db"
+          }
+        },
+        {
+          "client_id": "216151736631-ulptn26g3uqmcebo0c55md599k900glt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtvUj5cgamJ6UQ1jXk5lXSNv0O35xcDiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216151736631-ulptn26g3uqmcebo0c55md599k900glt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
